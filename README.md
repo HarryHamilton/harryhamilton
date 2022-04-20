@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A collection of completed and WIP personal projects. None of my university projects are visible due to university rules. :)
+A collection of completed and WIP personal projects. None of my university projects are visible due to university rules
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryhamilton)](https://github.com/harryhamilton/github-readme-stats)
 
